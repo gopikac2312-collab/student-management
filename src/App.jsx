@@ -5,7 +5,7 @@ import { useStore } from "./useStore.jsx";
 import { Dashboard } from "./Dashboard.jsx";
 import { StudentsTab } from "./Students.jsx";
 import { CoursesTab } from "./Courses.jsx";
-import { AttendanceTab } from "./Attendence.jsx";
+import { AttendanceTab } from "./Attendance.jsx";
 import { GradesTab } from "./Grades.jsx";
 import { ReportsTab } from "./Reports.jsx";
 
